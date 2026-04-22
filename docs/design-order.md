@@ -4,7 +4,7 @@ _(This should be a logical order in which to work through the design, rather tha
 whatever feels interesting.)_
 
 - Tech stack (done)
-- Overview & Philosophy
+- Overview & Philosophy (done)
 - Galaxy
 - Exploration & Survey
 - Artifact Clusters
