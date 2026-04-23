@@ -5,9 +5,10 @@ _(This should be a logical order in which to work through the design, rather tha
 - Tech stack (done)
 - Overview & Philosophy (done)
 - Galaxy (solid draft)
-- Exploration & Survey
+- Exploration & Survey (done)
 - Artifact Clusters
 - Artifact Vocabulary - first pass, to unblock downstream work
+- Outposts & Specialists (rough draft)
 - Archaeology
 - Win Conditions
 - Logistics

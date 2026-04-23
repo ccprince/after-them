@@ -37,10 +37,10 @@ properties are visible at the same stage of investigation.
 
 ### Stellar Type
 
-Visible from detection — a spacefaring civilization reads stellar spectra as a matter of course. Stellar type is a
-pattern carrier: the prior civilization had preferences, and those preferences left traces. A player who reads enough
-reports will notice that certain artifact clusters appear more often around certain stellar types, or that a particular
-rare element keeps turning up in systems with the same spectral signature.
+A spacefaring civilization reads stellar spectra as a matter of course. Stellar type is a pattern carrier: the prior
+civilization had preferences, and those preferences left traces. A player who reads enough reports will notice that
+certain artifact clusters appear more often around certain stellar types, or that a particular rare element keeps
+turning up in systems with the same spectral signature.
 
 These patterns are probabilistic, not deterministic. Stellar type is a hint, not a recipe.
 
@@ -137,33 +137,6 @@ pattern of estimates across the galaxy can triangulate the origin — not throug
 where the numbers are heading fastest. Science will surface this pattern explicitly once it becomes statistically
 legible.
 
-## Remote Scanning
-
-Systems within range of an established presence — outpost, colony, or ship on standing patrol — are passively scanned
-each turn. Remote scanning provides partial information: enough to flag systems of interest, not enough to replace a
-ship visit.
-
-The following properties are readable from remote scan:
-
-- **Habitability band** — accurate. One of the few properties where remote sensing is considered reliable; habitability
-  is something a civilization in crisis tracks carefully and has good instruments for.
-- **Resource presence** — indicated but not detailed. Common resources are flagged with reasonable reliability. Rare
-  elements require specific survey technology to detect at range, developed through artifact research.
-- **Artifact signature** — indicated but unreliable. See Artifact Signature above.
-
-Remote scan data is subject to false positives for all properties except habitability. A resource or artifact reading
-flagged by remote scan may prove negligible or absent on survey. Better technology reduces the false positive rate but
-never eliminates it. The only way to be certain is to send a proper survey team.
-
-False positives do resolve over time for systems under continuous passive scan — accumulated data filters out some
-noise. But some ambiguous readings persist regardless of scan duration; the distinction between "this will resolve
-eventually" and "this requires a ship" is not visible to the player. This creates a natural triage behavior: wait for
-fresh scan data to stabilize before committing ships, but don't assume all uncertainty will clear on its own.
-
-Scan capability improves with technology. Mid-game advances may allow rare element detection at range, finer resource
-discrimination, or reduced false positive rates. Systems previously scanned are worth re-evaluating when capability
-improves — the data was always there; now it can be read more accurately.
-
 ## Starting Conditions
 
 A small percentage of systems are inhabited at game start, distributed across the galaxy rather than concentrated in a
@@ -179,18 +152,18 @@ of system and regional properties. The actual content of these patterns (which a
 types, which rare elements appear near which significant points) is deferred to artifact cluster and win condition
 design. The carriers are:
 
-**Stellar type** — individual system property, visible from detection. Carries artifact preferences, rare element
-associations, habitability baseline tendencies.
+**Stellar type** — individual system property. Carries artifact preferences, rare element associations, habitability
+baseline tendencies.
 
-**Neighborhood density** — regional property, visible from detection. Carries degradation propagation characteristics,
-possibly prior civilization settlement patterns.
+**Neighborhood density** — regional property. Carries degradation propagation characteristics, possibly prior
+civilization settlement patterns.
 
 **Proximity to significant points** — regional property, never directly visible. Carries artifact concentration, rare
 element clustering, and potentially degradation structure. Each point may also carry narrative significance that informs
 content design without being stated to the player.
 
-**Planet type distribution** — individual system property, visible from survey. Carries rare element specifics and
-artifact site character. Patterns here are learned more slowly, since planetary composition requires a ship visit.
+**Planet type distribution** — individual system property. Carries rare element specifics and artifact site character.
+Patterns here are learned more slowly, since planetary composition requires a ship visit.
 
 ## Open Questions
 
